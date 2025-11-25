@@ -1,2 +1,2 @@
-# HTML-first-table-1.0
+# index.html
 made a table using HTML 
