@@ -14,33 +14,29 @@
     </tr>
     <tr>
         <td>
-            <ul type="I">            <!-- style="list-style-type:none;-->       
-                <li>1</li>
-                <li>2</li>
-                <li>3</li>
-                <li>4</li>
-                <li>5</li>
-                <li>6</li>
-                <li>7</li>
-                <li>8</li>
-                <li>9</li>
-                <li>10</li>
-                <li>11</li>
-                <li>12</li>
-            </ul>
+            <ol >            <!-- style="list-style-type:none;-->       
+                <li>Monday</li>
+                <li>Tuesday</li>
+                <li>Wednesday</li>
+                <li>Thursday</li>
+                <li>Friday</li>
+                <li>Saturday</li>
+                <li>Sunday</li>
+               
+            </ol>
         </td>
         <td >
            <p>We use cookies to enhance your experience by remembering your p</p>
-           <p>references, showing you content you’ll love, and keeping things </p>
+           <p>references, showing you content youll love, and keeping things </p>
            <p>running smoothly and securely, especially for our corporate clients</p>
-           <p>to use our site, you’re agreeing to our use of cookies to make thing</p>
+           <p>to use our site, youre agreeing to our use of cookies to make thing</p>
            <p>s easier and keep your valuable work secure! Content</p>
            <p>We use cookies to enhance your experience by remembering your p</p>
-           <p>to use our site, you’re agreeing to our use of cookies to make thing</p>
+           <p>to use our site, youre agreeing to our use of cookies to make thing</p>
 
         </td>
         <td>
-            <ul>
+            <ol>
                 <li>January</li>
                 <li>February</li>
                 <li>March</li>
@@ -54,7 +50,7 @@
                 <li>November</li>
                 <li>December</li>
                 
-            </ul>
+            </ol>
         </td>
     </tr>
     <tr>
